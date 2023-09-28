@@ -6,3 +6,4 @@
 - [00007-easy-readonly](https://github.com/linyawun/type-challenges/blob/main/00007-easy-readonly.ts)
 - [00018-easy-tuple-length](https://github.com/linyawun/type-challenges/blob/main/00018-easy-tuple-length.ts)
 - [00106-medium-trimleft](https://github.com/linyawun/type-challenges/blob/main/00106-medium-trimleft.ts)
+- [00108-medium-trim](https://github.com/linyawun/type-challenges/blob/main/00108-medium-trim.ts)
