@@ -11,3 +11,4 @@
 - [00110-medium-capitalize](https://github.com/linyawun/type-challenges/blob/main/00110-medium-capitalize.ts)
 - [00116-medium-replace](https://github.com/linyawun/type-challenges/blob/main/00116-medium-replace.ts)
 - [00119-medium-replaceall](https://github.com/linyawun/type-challenges/blob/main/00119-medium-replaceall.ts)
+- [00189-easy-awaited](https://github.com/linyawun/type-challenges/blob/main/00189-easy-awaited.ts)
