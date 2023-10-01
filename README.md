@@ -5,6 +5,7 @@
 - [00003-medium-omit](https://github.com/linyawun/type-challenges/blob/main/00003-medium-omit.ts)
 - [00004-easy-pick](https://github.com/linyawun/type-challenges/blob/main/00004-easy-pick.ts)
 - [00007-easy-readonly](https://github.com/linyawun/type-challenges/blob/main/00007-easy-readonly.ts)
+- [00014-easy-first](https://github.com/linyawun/type-challenges/blob/main/00014-easy-first.ts)
 - [00018-easy-tuple-length](https://github.com/linyawun/type-challenges/blob/main/00018-easy-tuple-length.ts)
 - [00043-easy-exclude](https://github.com/linyawun/type-challenges/blob/main/00043-easy-exclude.ts)
 - [00106-medium-trimleft](https://github.com/linyawun/type-challenges/blob/main/00106-medium-trimleft.ts)
