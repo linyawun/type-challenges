@@ -16,4 +16,5 @@
 - [00189-easy-awaited](https://github.com/linyawun/type-challenges/blob/main/00189-easy-awaited.ts)
 - [00268-easy-if](https://github.com/linyawun/type-challenges/blob/main/00268-easy-if.ts)
 - [00533-easy-concat](https://github.com/linyawun/type-challenges/blob/main/00533-easy-concat.ts)
+- [03057-easy-push](https://github.com/linyawun/type-challenges/blob/main/03057-easy-push.ts)
 - [03312-easy-parameters](https://github.com/linyawun/type-challenges/blob/main/03312-easy-parameters.ts)
