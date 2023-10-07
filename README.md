@@ -19,6 +19,7 @@
 - [00191-medium-append-argument](https://github.com/linyawun/type-challenges/blob/main/00191-medium-append-argument.ts)
 - [00268-easy-if](https://github.com/linyawun/type-challenges/blob/main/00268-easy-if.ts)
 - [00533-easy-concat](https://github.com/linyawun/type-challenges/blob/main/00533-easy-concat.ts)
+- [00898-easy-includes](https://github.com/linyawun/type-challenges/blob/main/00898-easy-includes.ts)
 - [03057-easy-push](https://github.com/linyawun/type-challenges/blob/main/03057-easy-push.ts)
 - [03060-easy-unshift](https://github.com/linyawun/type-challenges/blob/main/03060-easy-unshift.ts)
 - [03312-easy-parameters](https://github.com/linyawun/type-challenges/blob/main/03312-easy-parameters.ts)
