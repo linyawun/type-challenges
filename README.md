@@ -1,6 +1,7 @@
 # type-challenges
 > My answers of [type-challenges](https://github.com/type-challenges/type-challenges)
 
+<!-- GENERATED LIST START -->
 - [00002-medium-return-type](https://github.com/linyawun/type-challenges/blob/main/00002-medium-return-type.ts)
 - [00003-medium-omit](https://github.com/linyawun/type-challenges/blob/main/00003-medium-omit.ts)
 - [00004-easy-pick](https://github.com/linyawun/type-challenges/blob/main/00004-easy-pick.ts)
@@ -26,3 +27,4 @@
 - [03057-easy-push](https://github.com/linyawun/type-challenges/blob/main/03057-easy-push.ts)
 - [03060-easy-unshift](https://github.com/linyawun/type-challenges/blob/main/03060-easy-unshift.ts)
 - [03312-easy-parameters](https://github.com/linyawun/type-challenges/blob/main/03312-easy-parameters.ts)
+<!-- GENERATED LIST END -->
