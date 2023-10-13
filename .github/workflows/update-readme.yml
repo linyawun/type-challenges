@@ -20,13 +20,13 @@ jobs:
 
       - name: Update README
         run: |
-          file_list=$(find . -name "*.ts" | sort)
+          file_list=$(find . -name "*.ts" | sort)        
           readme_content=""
 
           for file in $file_list; do
             question_number=$(echo "$file" | sed -n 's/.*\([0-9]\{5\}-[^\.]*\.ts\).*/\1/p')
             link="[$question_number](https://github.com/linyawun/type-challenges/blob/main/$file)"
-            readme_content="$link\n"
+            readme_content="$readme_content- $link\n"
           done
 
           sed -i '/<!-- GENERATED LIST START -->/,<!-- GENERATED LIST END -->/c\<!-- GENERATED LIST START -->\n'"$readme_content"'<!-- GENERATED LIST END -->' README.md
