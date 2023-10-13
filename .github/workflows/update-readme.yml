@@ -21,22 +21,16 @@ jobs:
       - name: Update README
         run: |
           file_list=$(find . -name "*.ts" | sort)
-
-
           readme_content=""
+
           for file in $file_list; do
-           
-            question_number=$(echo "$file" | grep -oP '(\d{5})(?=-\w+\.ts)')
-            
-
-            link="[$question_number-easy](https://github.com/linyawun/type-challenges/blob/main/$file)"
-
+            question_number=$(echo "$file" | grep -oP '(\d{5}-\w+\.ts)')
+            link="[$question_number](https://github.com/linyawun/type-challenges/blob/main/$file)"
             readme_content="$readme_content- $link\n"
           done
 
-
-          sed -i '/^\- \[\d{5}-easy/d' README.md
-          sed -i "/<!-- GENERATED LIST START -->/,<!-- GENERATED LIST END -->/c\\<!-- GENERATED LIST START -->\n$readme_content<!-- GENERATED LIST END -->" README.md
+          # 替換 README.md 中的清單部分
+          sed -i '/<!-- GENERATED LIST START -->/,<!-- GENERATED LIST END -->/c\\<!-- GENERATED LIST START -->\n'"$readme_content"'<!-- GENERATED LIST END -->' README.md
 
           git add README.md
           git commit -m "Update README.md"
