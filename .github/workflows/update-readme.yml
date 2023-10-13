@@ -11,27 +11,30 @@ jobs:
 
     steps:
       - name: Check out repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+
+      - name: Use Node.js 16
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
 
       - name: Update README
         run: |
-          # 擷取最新的 TypeScript 檔案清單
           file_list=$(find . -name "*.ts" | sort)
 
-          # 生成 README.md 的內容
+
           readme_content=""
           for file in $file_list; do
-            # 提取題號（使用五位數字）
+           
             question_number=$(echo "$file" | grep -oP '(\d{5})(?=-\w+\.ts)')
             
-            # 生成連結
+
             link="[$question_number-easy](https://github.com/linyawun/type-challenges/blob/main/$file)"
-            
-            # 添加到 README.md 內容
+
             readme_content="$readme_content- $link\n"
           done
 
-          # 替換 README.md 中的清單部分
+
           sed -i '/^\- \[\d{5}-easy/d' README.md
           sed -i "/<!-- GENERATED LIST START -->/,<!-- GENERATED LIST END -->/c\\<!-- GENERATED LIST START -->\n$readme_content<!-- GENERATED LIST END -->" README.md
 
