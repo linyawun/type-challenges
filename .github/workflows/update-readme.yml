@@ -24,13 +24,16 @@ jobs:
           readme_content=""
 
           for file in $file_list; do
-            question_number=$(echo "$file" | sed -n 's/.*\([0-9]\{5\}-[^\.]*\.ts\).*/\1/p')
-            link="[$question_number](https://github.com/linyawun/type-challenges/blob/main/$file)"
+            question_title=$(echo "$file" | sed -n 's/.*\/\([0-9]\{5\}-[^.]*\)\.ts/\1/p')
+            link="[$question_title](https://github.com/linyawun/type-challenges/blob/main/$file)"
             readme_content="$readme_content- $link\n"
           done
 
-          sed -i '/<!-- GENERATED LIST START -->/,<!-- GENERATED LIST END -->/c\<!-- GENERATED LIST START -->\n'"$readme_content"'<!-- GENERATED LIST END -->' README.md
+          new_readme_content="<!-- GENERATED LIST START -->\n$readme_content<!-- GENERATED LIST END -->"
 
-          git add README.md
-          git commit -m "Update README.md"
-          git push
+          awk -v new_content="$new_readme_content" '/<!-- GENERATED LIST START -->/,/<!-- GENERATED LIST END -->/ { if ($0 ~ /<!-- GENERATED LIST START -->/) print new_content; next } 1' README.md > README.md.tmp && mv README.md.tmp README.md
+
+      - name: Commit and push
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: 'Update README.md'
