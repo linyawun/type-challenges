@@ -6,6 +6,7 @@
 - [00003-medium-omit](https://github.com/linyawun/type-challenges/blob/main/./00003-medium-omit.ts)
 - [00004-easy-pick](https://github.com/linyawun/type-challenges/blob/main/./00004-easy-pick.ts)
 - [00007-easy-readonly](https://github.com/linyawun/type-challenges/blob/main/./00007-easy-readonly.ts)
+- [00010-medium-tuple-to-union](https://github.com/linyawun/type-challenges/blob/main/./00010-medium-tuple-to-union.ts)
 - [00011-easy-tuple-to-object](https://github.com/linyawun/type-challenges/blob/main/./00011-easy-tuple-to-object.ts)
 - [00013-warm-hello-world](https://github.com/linyawun/type-challenges/blob/main/./00013-warm-hello-world.ts)
 - [00014-easy-first](https://github.com/linyawun/type-challenges/blob/main/./00014-easy-first.ts)
