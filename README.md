@@ -26,6 +26,7 @@
 - [00268-easy-if](https://github.com/linyawun/type-challenges/blob/main/./00268-easy-if.ts)
 - [00459-medium-flatten](https://github.com/linyawun/type-challenges/blob/main/./00459-medium-flatten.ts)
 - [00527-medium-append-to-object](https://github.com/linyawun/type-challenges/blob/main/./00527-medium-append-to-object.ts)
+- [00529-medium-absolute](https://github.com/linyawun/type-challenges/blob/main/./00529-medium-absolute.ts)
 - [00533-easy-concat](https://github.com/linyawun/type-challenges/blob/main/./00533-easy-concat.ts)
 - [00599-medium-merge](https://github.com/linyawun/type-challenges/blob/main/./00599-medium-merge.ts)
 - [00898-easy-includes](https://github.com/linyawun/type-challenges/blob/main/./00898-easy-includes.ts)
