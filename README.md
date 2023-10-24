@@ -35,6 +35,7 @@
 - [00645-medium-diff](https://github.com/linyawun/type-challenges/blob/main/./00645-medium-diff.ts)
 - [00898-easy-includes](https://github.com/linyawun/type-challenges/blob/main/./00898-easy-includes.ts)
 - [00949-medium-anyof](https://github.com/linyawun/type-challenges/blob/main/./00949-medium-anyof.ts)
+- [01042-medium-isnever](https://github.com/linyawun/type-challenges/blob/main/./01042-medium-isnever.ts)
 - [03057-easy-push](https://github.com/linyawun/type-challenges/blob/main/./03057-easy-push.ts)
 - [03060-easy-unshift](https://github.com/linyawun/type-challenges/blob/main/./03060-easy-unshift.ts)
 - [03312-easy-parameters](https://github.com/linyawun/type-challenges/blob/main/./03312-easy-parameters.ts)
