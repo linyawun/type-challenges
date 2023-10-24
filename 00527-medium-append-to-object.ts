@@ -3,7 +3,6 @@
 //key extends keyof T | U means that key can be any key of T or U
 //K extends keyof T to check if K is a key of T
 //if K is a key of T, return T[K]
-//test comment
 type AppendToObject<T, U extends string | number | symbol, V> = {
   [K in keyof T | U]: K extends keyof T ? T[K] : V;
 };
