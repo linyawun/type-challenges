@@ -41,6 +41,7 @@
 - [03060-easy-unshift](https://github.com/linyawun/type-challenges/blob/main/./03060-easy-unshift.ts)
 - [03312-easy-parameters](https://github.com/linyawun/type-challenges/blob/main/./03312-easy-parameters.ts)
 - [04471-medium-zip](https://github.com/linyawun/type-challenges/blob/main/./04471-medium-zip.ts)
+- [04484-medium-istuple](https://github.com/linyawun/type-challenges/blob/main/./04484-medium-istuple.ts)
 - [05310-medium-join](https://github.com/linyawun/type-challenges/blob/main/./05310-medium-join.ts)
 - [18142-medium-all](https://github.com/linyawun/type-challenges/blob/main/./18142-medium-all.ts)
 <!-- GENERATED LIST END -->
