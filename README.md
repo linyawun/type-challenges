@@ -45,5 +45,6 @@
 - [04471-medium-zip](https://github.com/linyawun/type-challenges/blob/main/./04471-medium-zip.ts)
 - [04484-medium-istuple](https://github.com/linyawun/type-challenges/blob/main/./04484-medium-istuple.ts)
 - [05310-medium-join](https://github.com/linyawun/type-challenges/blob/main/./05310-medium-join.ts)
+- [09898-medium-zhao-appear-only-once](https://github.com/linyawun/type-challenges/blob/main/./09898-medium-zhao-appear-only-once.ts)
 - [18142-medium-all](https://github.com/linyawun/type-challenges/blob/main/./18142-medium-all.ts)
 <!-- GENERATED LIST END -->
