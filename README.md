@@ -38,6 +38,7 @@
 - [01042-medium-isnever](https://github.com/linyawun/type-challenges/blob/main/./01042-medium-isnever.ts)
 - [02070-medium-drop-char](https://github.com/linyawun/type-challenges/blob/main/./02070-medium-drop-char.ts)
 - [02688-medium-startswith](https://github.com/linyawun/type-challenges/blob/main/./02688-medium-startswith.ts)
+- [02946-medium-objectentries](https://github.com/linyawun/type-challenges/blob/main/./02946-medium-objectentries.ts)
 - [03057-easy-push](https://github.com/linyawun/type-challenges/blob/main/./03057-easy-push.ts)
 - [03060-easy-unshift](https://github.com/linyawun/type-challenges/blob/main/./03060-easy-unshift.ts)
 - [03192-medium-reverse](https://github.com/linyawun/type-challenges/blob/main/./03192-medium-reverse.ts)
