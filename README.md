@@ -49,4 +49,5 @@
 - [05317-medium-lastindexof](https://github.com/linyawun/type-challenges/blob/main/./05317-medium-lastindexof.ts)
 - [09898-medium-zhao-appear-only-once](https://github.com/linyawun/type-challenges/blob/main/./09898-medium-zhao-appear-only-once.ts)
 - [18142-medium-all](https://github.com/linyawun/type-challenges/blob/main/./18142-medium-all.ts)
+- [18220-medium-filter](https://github.com/linyawun/type-challenges/blob/main/./18220-medium-filter.ts)
 <!-- GENERATED LIST END -->
