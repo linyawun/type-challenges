@@ -53,4 +53,5 @@
 - [09898-medium-zhao-appear-only-once](https://github.com/linyawun/type-challenges/blob/main/./09898-medium-zhao-appear-only-once.ts)
 - [18142-medium-all](https://github.com/linyawun/type-challenges/blob/main/./18142-medium-all.ts)
 - [18220-medium-filter](https://github.com/linyawun/type-challenges/blob/main/./18220-medium-filter.ts)
+- [21106-medium-combination-key-type](https://github.com/linyawun/type-challenges/blob/main/./21106-medium-combination-key-type.ts)
 <!-- GENERATED LIST END -->
