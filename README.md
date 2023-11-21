@@ -39,6 +39,7 @@
 - [02070-medium-drop-char](https://github.com/linyawun/type-challenges/blob/main/./02070-medium-drop-char.ts)
 - [02688-medium-startswith](https://github.com/linyawun/type-challenges/blob/main/./02688-medium-startswith.ts)
 - [02693-medium-endswith](https://github.com/linyawun/type-challenges/blob/main/./02693-medium-endswith.ts)
+- [02757-medium-partialbykeys](https://github.com/linyawun/type-challenges/blob/main/./02757-medium-partialbykeys.ts)
 - [02946-medium-objectentries](https://github.com/linyawun/type-challenges/blob/main/./02946-medium-objectentries.ts)
 - [03057-easy-push](https://github.com/linyawun/type-challenges/blob/main/./03057-easy-push.ts)
 - [03060-easy-unshift](https://github.com/linyawun/type-challenges/blob/main/./03060-easy-unshift.ts)
