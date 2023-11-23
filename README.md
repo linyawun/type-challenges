@@ -59,4 +59,5 @@
 - [18220-medium-filter](https://github.com/linyawun/type-challenges/blob/main/./18220-medium-filter.ts)
 - [21106-medium-combination-key-type](https://github.com/linyawun/type-challenges/blob/main/./21106-medium-combination-key-type.ts)
 - [27932-medium-mergeall](https://github.com/linyawun/type-challenges/blob/main/./27932-medium-mergeall.ts)
+- [29650-medium-extracttoobject](https://github.com/linyawun/type-challenges/blob/main/./29650-medium-extracttoobject.ts)
 <!-- GENERATED LIST END -->
