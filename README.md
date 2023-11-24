@@ -36,6 +36,7 @@
 - [00898-easy-includes](https://github.com/linyawun/type-challenges/blob/main/./00898-easy-includes.ts)
 - [00949-medium-anyof](https://github.com/linyawun/type-challenges/blob/main/./00949-medium-anyof.ts)
 - [01042-medium-isnever](https://github.com/linyawun/type-challenges/blob/main/./01042-medium-isnever.ts)
+- [01130-medium-replacekeys](https://github.com/linyawun/type-challenges/blob/main/./01130-medium-replacekeys.ts)
 - [02070-medium-drop-char](https://github.com/linyawun/type-challenges/blob/main/./02070-medium-drop-char.ts)
 - [02688-medium-startswith](https://github.com/linyawun/type-challenges/blob/main/./02688-medium-startswith.ts)
 - [02693-medium-endswith](https://github.com/linyawun/type-challenges/blob/main/./02693-medium-endswith.ts)
