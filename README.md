@@ -66,5 +66,6 @@
 - [21104-medium-findall](https://github.com/linyawun/type-challenges/blob/main/./21104-medium-findall.ts)
 - [21106-medium-combination-key-type](https://github.com/linyawun/type-challenges/blob/main/./21106-medium-combination-key-type.ts)
 - [27932-medium-mergeall](https://github.com/linyawun/type-challenges/blob/main/./27932-medium-mergeall.ts)
+- [28333-medium-public-type](https://github.com/linyawun/type-challenges/blob/main/./28333-medium-public-type.ts)
 - [29650-medium-extracttoobject](https://github.com/linyawun/type-challenges/blob/main/./29650-medium-extracttoobject.ts)
 <!-- GENERATED LIST END -->
