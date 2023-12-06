@@ -58,6 +58,7 @@
 - [05310-medium-join](https://github.com/linyawun/type-challenges/blob/main/./05310-medium-join.ts)
 - [05317-medium-lastindexof](https://github.com/linyawun/type-challenges/blob/main/./05317-medium-lastindexof.ts)
 - [07544-medium-construct-tuple](https://github.com/linyawun/type-challenges/blob/main/./07544-medium-construct-tuple.ts)
+- [08987-medium-subsequence](https://github.com/linyawun/type-challenges/blob/main/./08987-medium-subsequence.ts)
 - [09616-medium-parse-url-params](https://github.com/linyawun/type-challenges/blob/main/./09616-medium-parse-url-params.ts)
 - [09896-medium-get-middle-element](https://github.com/linyawun/type-challenges/blob/main/./09896-medium-get-middle-element.ts)
 - [09898-medium-appear-only-once](https://github.com/linyawun/type-challenges/blob/main/./09898-medium-appear-only-once.ts)
