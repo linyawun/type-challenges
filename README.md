@@ -43,6 +43,7 @@
 - [02688-medium-startswith](https://github.com/linyawun/type-challenges/blob/main/./02688-medium-startswith.ts)
 - [02693-medium-endswith](https://github.com/linyawun/type-challenges/blob/main/./02693-medium-endswith.ts)
 - [02757-medium-partialbykeys](https://github.com/linyawun/type-challenges/blob/main/./02757-medium-partialbykeys.ts)
+- [02759-medium-requiredbykeys](https://github.com/linyawun/type-challenges/blob/main/./02759-medium-requiredbykeys.ts)
 - [02793-medium-mutable](https://github.com/linyawun/type-challenges/blob/main/./02793-medium-mutable.ts)
 - [02852-medium-omitbytype](https://github.com/linyawun/type-challenges/blob/main/./02852-medium-omitbytype.ts)
 - [02946-medium-objectentries](https://github.com/linyawun/type-challenges/blob/main/./02946-medium-objectentries.ts)
