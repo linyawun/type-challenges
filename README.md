@@ -77,6 +77,7 @@
 - [21106-medium-combination-key-type](https://github.com/linyawun/type-challenges/blob/main/./21106-medium-combination-key-type.ts)
 - [25170-medium-replace-first](https://github.com/linyawun/type-challenges/blob/main/./25170-medium-replace-first.ts)
 - [25270-medium-transpose](https://github.com/linyawun/type-challenges/blob/main/./25270-medium-transpose.ts)
+- [27862-medium-cartesianproduct](https://github.com/linyawun/type-challenges/blob/main/./27862-medium-cartesianproduct.ts)
 - [27932-medium-mergeall](https://github.com/linyawun/type-challenges/blob/main/./27932-medium-mergeall.ts)
 - [28333-medium-public-type](https://github.com/linyawun/type-challenges/blob/main/./28333-medium-public-type.ts)
 - [29650-medium-extracttoobject](https://github.com/linyawun/type-challenges/blob/main/./29650-medium-extracttoobject.ts)
