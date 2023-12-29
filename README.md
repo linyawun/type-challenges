@@ -73,6 +73,7 @@
 - [09616-medium-parse-url-params](https://github.com/linyawun/type-challenges/blob/main/./09616-medium-parse-url-params.ts)
 - [09896-medium-get-middle-element](https://github.com/linyawun/type-challenges/blob/main/./09896-medium-get-middle-element.ts)
 - [09898-medium-appear-only-once](https://github.com/linyawun/type-challenges/blob/main/./09898-medium-appear-only-once.ts)
+- [17973-medium-deepmutable](https://github.com/linyawun/type-challenges/blob/main/./17973-medium-deepmutable.ts)
 - [18142-medium-all](https://github.com/linyawun/type-challenges/blob/main/./18142-medium-all.ts)
 - [18220-medium-filter](https://github.com/linyawun/type-challenges/blob/main/./18220-medium-filter.ts)
 - [21104-medium-findall](https://github.com/linyawun/type-challenges/blob/main/./21104-medium-findall.ts)
