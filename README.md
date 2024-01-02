@@ -60,6 +60,7 @@
 - [04260-medium-nomiwase](https://github.com/linyawun/type-challenges/blob/main/./04260-medium-nomiwase.ts)
 - [04471-medium-zip](https://github.com/linyawun/type-challenges/blob/main/./04471-medium-zip.ts)
 - [04484-medium-istuple](https://github.com/linyawun/type-challenges/blob/main/./04484-medium-istuple.ts)
+- [04518-medium-fill](https://github.com/linyawun/type-challenges/blob/main/./04518-medium-fill.ts)
 - [04803-medium-trim-right](https://github.com/linyawun/type-challenges/blob/main/./04803-medium-trim-right.ts)
 - [05117-medium-without](https://github.com/linyawun/type-challenges/blob/main/./05117-medium-without.ts)
 - [05310-medium-join](https://github.com/linyawun/type-challenges/blob/main/./05310-medium-join.ts)
