@@ -84,6 +84,7 @@
 - [27152-medium-triangular-number](https://github.com/linyawun/type-challenges/blob/main/./27152-medium-triangular-number.ts)
 - [27862-medium-cartesianproduct](https://github.com/linyawun/type-challenges/blob/main/./27862-medium-cartesianproduct.ts)
 - [27932-medium-mergeall](https://github.com/linyawun/type-challenges/blob/main/./27932-medium-mergeall.ts)
+- [27958-medium-checkrepeatedtuple](https://github.com/linyawun/type-challenges/blob/main/./27958-medium-checkrepeatedtuple.ts)
 - [28333-medium-public-type](https://github.com/linyawun/type-challenges/blob/main/./28333-medium-public-type.ts)
 - [29650-medium-extracttoobject](https://github.com/linyawun/type-challenges/blob/main/./29650-medium-extracttoobject.ts)
 - [29785-medium-deep-omit](https://github.com/linyawun/type-challenges/blob/main/./29785-medium-deep-omit.ts)
