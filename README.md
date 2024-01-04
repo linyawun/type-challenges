@@ -53,6 +53,7 @@
 - [03062-medium-shift](https://github.com/linyawun/type-challenges/blob/main/./03062-medium-shift.ts)
 - [03192-medium-reverse](https://github.com/linyawun/type-challenges/blob/main/./03192-medium-reverse.ts)
 - [03196-medium-flip-arguments](https://github.com/linyawun/type-challenges/blob/main/./03196-medium-flip-arguments.ts)
+- [03243-medium-flattendepth](https://github.com/linyawun/type-challenges/blob/main/./03243-medium-flattendepth.ts)
 - [03312-easy-parameters](https://github.com/linyawun/type-challenges/blob/main/./03312-easy-parameters.ts)
 - [03326-medium-bem-style-string](https://github.com/linyawun/type-challenges/blob/main/./03326-medium-bem-style-string.ts)
 - [03376-medium-inordertraversal](https://github.com/linyawun/type-challenges/blob/main/./03376-medium-inordertraversal.ts)
