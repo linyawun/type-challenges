@@ -25,6 +25,7 @@
 - [00189-easy-awaited](https://github.com/linyawun/type-challenges/blob/main/./00189-easy-awaited.ts)
 - [00191-medium-append-argument](https://github.com/linyawun/type-challenges/blob/main/./00191-medium-append-argument.ts)
 - [00268-easy-if](https://github.com/linyawun/type-challenges/blob/main/./00268-easy-if.ts)
+- [00296-medium-permutation](https://github.com/linyawun/type-challenges/blob/main/./00296-medium-permutation.ts)
 - [00298-medium-length-of-string](https://github.com/linyawun/type-challenges/blob/main/./00298-medium-length-of-string.ts)
 - [00459-medium-flatten](https://github.com/linyawun/type-challenges/blob/main/./00459-medium-flatten.ts)
 - [00527-medium-append-to-object](https://github.com/linyawun/type-challenges/blob/main/./00527-medium-append-to-object.ts)
