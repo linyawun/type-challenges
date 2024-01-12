@@ -38,6 +38,7 @@
 - [00898-easy-includes](https://github.com/linyawun/type-challenges/blob/main/./00898-easy-includes.ts)
 - [00949-medium-anyof](https://github.com/linyawun/type-challenges/blob/main/./00949-medium-anyof.ts)
 - [01042-medium-isnever](https://github.com/linyawun/type-challenges/blob/main/./01042-medium-isnever.ts)
+- [01097-medium-isunion](https://github.com/linyawun/type-challenges/blob/main/./01097-medium-isunion.ts)
 - [01130-medium-replacekeys](https://github.com/linyawun/type-challenges/blob/main/./01130-medium-replacekeys.ts)
 - [01367-medium-remove-index-signature](https://github.com/linyawun/type-challenges/blob/main/./01367-medium-remove-index-signature.ts)
 - [01978-medium-percentage-parser](https://github.com/linyawun/type-challenges/blob/main/./01978-medium-percentage-parser.ts)
