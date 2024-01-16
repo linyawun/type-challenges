@@ -62,6 +62,7 @@
 - [03326-medium-bem-style-string](https://github.com/linyawun/type-challenges/blob/main/./03326-medium-bem-style-string.ts)
 - [03376-medium-inordertraversal](https://github.com/linyawun/type-challenges/blob/main/./03376-medium-inordertraversal.ts)
 - [04179-medium-flip](https://github.com/linyawun/type-challenges/blob/main/./04179-medium-flip.ts)
+- [04182-medium-fibonacci-sequence](https://github.com/linyawun/type-challenges/blob/main/./04182-medium-fibonacci-sequence.ts)
 - [04260-medium-nomiwase](https://github.com/linyawun/type-challenges/blob/main/./04260-medium-nomiwase.ts)
 - [04471-medium-zip](https://github.com/linyawun/type-challenges/blob/main/./04471-medium-zip.ts)
 - [04484-medium-istuple](https://github.com/linyawun/type-challenges/blob/main/./04484-medium-istuple.ts)
