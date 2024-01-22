@@ -75,6 +75,7 @@
 - [05310-medium-join](https://github.com/linyawun/type-challenges/blob/main/./05310-medium-join.ts)
 - [05317-medium-lastindexof](https://github.com/linyawun/type-challenges/blob/main/./05317-medium-lastindexof.ts)
 - [05360-medium-unique](https://github.com/linyawun/type-challenges/blob/main/./05360-medium-unique.ts)
+- [05821-medium-maptypes](https://github.com/linyawun/type-challenges/blob/main/./05821-medium-maptypes.ts)
 - [07544-medium-construct-tuple](https://github.com/linyawun/type-challenges/blob/main/./07544-medium-construct-tuple.ts)
 - [08640-medium-number-range](https://github.com/linyawun/type-challenges/blob/main/./08640-medium-number-range.ts)
 - [08767-medium-combination](https://github.com/linyawun/type-challenges/blob/main/./08767-medium-combination.ts)
