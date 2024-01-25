@@ -93,6 +93,7 @@
 - [18220-medium-filter](https://github.com/linyawun/type-challenges/blob/main/./18220-medium-filter.ts)
 - [21104-medium-findall](https://github.com/linyawun/type-challenges/blob/main/./21104-medium-findall.ts)
 - [21106-medium-combination-key-type](https://github.com/linyawun/type-challenges/blob/main/./21106-medium-combination-key-type.ts)
+- [21220-medium-permutations-of-tuple](https://github.com/linyawun/type-challenges/blob/main/./21220-medium-permutations-of-tuple.ts)
 - [25170-medium-replace-first](https://github.com/linyawun/type-challenges/blob/main/./25170-medium-replace-first.ts)
 - [25270-medium-transpose](https://github.com/linyawun/type-challenges/blob/main/./25270-medium-transpose.ts)
 - [27152-medium-triangular-number](https://github.com/linyawun/type-challenges/blob/main/./27152-medium-triangular-number.ts)
