@@ -103,4 +103,5 @@
 - [28333-medium-public-type](https://github.com/linyawun/type-challenges/blob/main/./28333-medium-public-type.ts)
 - [29650-medium-extracttoobject](https://github.com/linyawun/type-challenges/blob/main/./29650-medium-extracttoobject.ts)
 - [29785-medium-deep-omit](https://github.com/linyawun/type-challenges/blob/main/./29785-medium-deep-omit.ts)
+- [30301-medium-isodd](https://github.com/linyawun/type-challenges/blob/main/./30301-medium-isodd.ts)
 <!-- GENERATED LIST END -->
