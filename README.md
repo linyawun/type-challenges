@@ -16,6 +16,7 @@
 - [00018-easy-tuple-length](https://github.com/linyawun/type-challenges/blob/main/./00018-easy-tuple-length.ts)
 - [00020-medium-promise-all](https://github.com/linyawun/type-challenges/blob/main/./00020-medium-promise-all.ts)
 - [00043-easy-exclude](https://github.com/linyawun/type-challenges/blob/main/./00043-easy-exclude.ts)
+- [00057-hard-get-required](https://github.com/linyawun/type-challenges/blob/main/./00057-hard-get-required.ts)
 - [00062-medium-type-lookup](https://github.com/linyawun/type-challenges/blob/main/./00062-medium-type-lookup.ts)
 - [00106-medium-trimleft](https://github.com/linyawun/type-challenges/blob/main/./00106-medium-trimleft.ts)
 - [00108-medium-trim](https://github.com/linyawun/type-challenges/blob/main/./00108-medium-trim.ts)
