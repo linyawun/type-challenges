@@ -19,6 +19,7 @@
 - [00057-hard-get-required](https://github.com/linyawun/type-challenges/blob/main/./00057-hard-get-required.ts)
 - [00059-hard-get-optional](https://github.com/linyawun/type-challenges/blob/main/./00059-hard-get-optional.ts)
 - [00062-medium-type-lookup](https://github.com/linyawun/type-challenges/blob/main/./00062-medium-type-lookup.ts)
+- [00089-hard-required-keys](https://github.com/linyawun/type-challenges/blob/main/./00089-hard-required-keys.ts)
 - [00106-medium-trimleft](https://github.com/linyawun/type-challenges/blob/main/./00106-medium-trimleft.ts)
 - [00108-medium-trim](https://github.com/linyawun/type-challenges/blob/main/./00108-medium-trim.ts)
 - [00110-medium-capitalize](https://github.com/linyawun/type-challenges/blob/main/./00110-medium-capitalize.ts)
