@@ -25,6 +25,7 @@
 - [00108-medium-trim](https://github.com/linyawun/type-challenges/blob/main/./00108-medium-trim.ts)
 - [00110-medium-capitalize](https://github.com/linyawun/type-challenges/blob/main/./00110-medium-capitalize.ts)
 - [00112-hard-capitalizewords](https://github.com/linyawun/type-challenges/blob/main/./00112-hard-capitalizewords.ts)
+- [00114-hard-camelcase](https://github.com/linyawun/type-challenges/blob/main/./00114-hard-camelcase.ts)
 - [00116-medium-replace](https://github.com/linyawun/type-challenges/blob/main/./00116-medium-replace.ts)
 - [00119-medium-replaceall](https://github.com/linyawun/type-challenges/blob/main/./00119-medium-replaceall.ts)
 - [00189-easy-awaited](https://github.com/linyawun/type-challenges/blob/main/./00189-easy-awaited.ts)
